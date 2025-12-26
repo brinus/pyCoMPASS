@@ -1,6 +1,10 @@
 # pyCoMPASS
 
+[![Documentation Status](https://readthedocs.org/projects/pycompass-client/badge/?version=latest)](https://pycompass-client.readthedocs.io/en/latest/?badge=latest)
+
 Python client/bindings for the CoMPASS-Core REST API.
+
+Documentation: [pycompass-client.readthedocs.io/en/latest](https://pycompass-client.readthedocs.io/en/latest/)
 
 The goal of this repository is to provide client-side APIs that talk to the CoMPASS-Core daemon (HTTP), so user applications do not need to manually craft requests.
 
